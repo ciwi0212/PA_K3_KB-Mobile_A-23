@@ -13,7 +13,7 @@ Aplikasi ini dirancang agar mudah digunakan, cepat, dan akurat sehingga membantu
    Aplikasi menyediakan dua opsi input: mengambil foto dengan kamera atau memilih gambar dari galeri. Jika menggunakan kamera, pengguna perlu memberikan izin akses, lalu mengarahkan kamera ke tangan dengan jelas untuk diproses oleh AI. Hasil deteksi bisa berupa pesan seperti "Huruf M terdeteksi", "Tangan tidak terdeteksi. Posisikan tangan lebih jelas di frame.", "Huruf A tidak jelas", atau "Gagal memproses foto atau API tidak merespons". Jika memilih gambar dari galeri, pengguna cukup memilih foto dan menekan tombol konfirmasi & Deteksi, lalu hasilnya akan muncul dengan format pesan yang sama seperti mode kamera. Pengguna bisa memilih ulang fotonya.
 3. Riwayat Deteksi
 
-   Semua hasil deteksi baik yang berhasil maupun gagal akan tersimpan di halaman Riwayat, sehingga pengguna bisa melihat histori penggunaan dan memantau hasil deteksi sebelumnya.
+   Semua hasil deteksi baik yang berhasil maupun gagal akan tersimpan di halaman Riwayat setelah men-klik tombol Konfirmasi, sehingga pengguna bisa melihat histori penggunaan dan memantau hasil deteksi sebelumnya.
 
 4. Kamus BISINDO
 
